@@ -1,18 +1,14 @@
-## Getting Started
+# Práctica Clases Génericas en Java
+## Datos del Estudiante
+- **Nombre:** [Emilio Eduardo Montaleza Encalada]
+- **Curso:** [Grupo 1]
+- **Fecha:** [03/06/2026]
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 1. Implementación de Caja <T> y Par <K, V>
 
-## Folder Structure
+**Fecha:** [03/06/2026]
+**Descripción:** Este proyecto implementa clases genéricas en Java para almacenar y relacionar datos de distintos tipos. Se utilizaron las clases Caja<T> y Par<K,V> para demostrar cómo los genéricos permiten crear estructuras de datos flexibles, reutilizables y seguras.
 
-The workspace contains two folders by default, where:
+[Captura de salida en consola](src/assets/01-captura-salida-consola.png)
+[Captura de salida en consola](src/assets/02-app-implementacion-codeconsola.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
